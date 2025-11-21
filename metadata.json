@@ -1,0 +1,5 @@
+{
+  "name": "chudAI v2.0",
+  "description": "An AI-powered Image-to-Prompt Converter tool to generate detailed art prompts from images.",
+  "requestFramePermissions": []
+}
